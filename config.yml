@@ -28,7 +28,7 @@ google_analytics_id:
 title: "DeGroote Pulse Links"
 
 # Avatar image path
-avatar: "./images/degrootepulselogo.png"
+avatar: "./images/dp_onlylogo.png"
 
 # Name section text
 name: "@DeGrootePulse"
@@ -54,19 +54,18 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
-      text: "Travelog <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
-      url: "https://medium.com/ztravel"
-      alt: "ZhgChgLi's Travelog"
-      title: "ZhgChgLi's Travelog"
+      text: "Spotify Channel <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
+      url: "https://www.youtube.com/@DeGrootePulse"
+      alt: "DeGroote Pulse Spotify Channel"
+      title: "DeGroote Pulse Spotify Channel"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-github"
-      text: "linkyee <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/linkyee']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/linkyee"
-      alt: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
-      title: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
+      icon: "fa-brands fa-medium"
+      text: "Youtube Channel <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
+      url: "https://www.youtube.com/@DeGrootePulse"
+      alt: "DeGroote Pulse Youtube Channel"
+      title: "DeGroote Pulse Youtube Channel"
       target: "_blank"
-
 
 # List of social media links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -83,16 +82,7 @@ socials:
       target: "_blank"
   - social:
       icon: "fa-solid fa-envelope"
-      url: "mailto:zhgchgli@gmail.com"
-      title: "Email: zhgchgli@gmail.com"
+      url: "mailto:degrootepulse@gmail.com"
+      title: "Email: degrootepulse@gmail.com"
       alt: "degrootepulse@gmail.com"
       target: "_blank"
-
-# Footer text
-footer: >
-    Hi there! Follow me on Medium or GitHub, or stay connected on Instagram or LinkedIn.
-
-# Footer copyright message
-# Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
-copyright: >
-  © 2024  <a href="https://zhgchg.li" target="_blank">ZhgChgLi</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
