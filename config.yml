@@ -35,8 +35,9 @@ name: "@DeGrootePulse"
 
 # Tagline section text
 tagline: >-
-    The Student Career Podcast \n (DeGroote School of Business, McMaster University)
-
+    The Student Career Podcast
+tagline: >-
+    (DeGroote School of Business, McMaster University)
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
 # text: The displayed text for the link
@@ -61,7 +62,7 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
-      text: "Youtube Channel"
+      text: "Episode 1"
       url: "https://www.youtube.com/@DeGrootePulse"
       alt: "DeGroote Pulse Youtube Channel"
       title: "DeGroote Pulse Youtube Channel"
