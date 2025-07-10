@@ -28,14 +28,14 @@ google_analytics_id:
 title: "DeGroote Pulse Links"
 
 # Avatar image path
-avatar: "./images/profile.jpeg"
+avatar: "./images/degrootepulselogo.png"
 
 # Name section text
 name: "@DeGrootePulse"
 
 # Tagline section text
 tagline: >-
-    The Student Career Podcast (DeGroote School of Business, McMaster University)
+    The Student Career Podcast \n (DeGroote School of Business, McMaster University)
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
