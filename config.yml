@@ -47,21 +47,21 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-medium"
-      text: "Youtube Channel <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
+      text: "Youtube Channel"
       url: "https://www.youtube.com/@DeGrootePulse"
       alt: "DeGroote Pulse Youtube Channel"
       title: "DeGroote Pulse Youtube Channel"
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
-      text: "Spotify Channel <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
+      text: "Spotify Channel"
       url: "https://www.youtube.com/@DeGrootePulse"
       alt: "DeGroote Pulse Spotify Channel"
       title: "DeGroote Pulse Spotify Channel"
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
-      text: "Youtube Channel <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
+      text: "Youtube Channel"
       url: "https://www.youtube.com/@DeGrootePulse"
       alt: "DeGroote Pulse Youtube Channel"
       title: "DeGroote Pulse Youtube Channel"
