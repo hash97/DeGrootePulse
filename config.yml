@@ -61,6 +61,20 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
+      text: "Episode 3 - Spotify"
+      url: "https://open.spotify.com/episode/2iESRL0SDeTbBFAjvrtdy8?si=uInwbbyBTLeEzIgGU5N3ig"
+      alt: "DeGroote Pulse Youtube Channel"
+      title: "DeGroote Pulse Youtube Channel"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-medium"
+      text: "Episode 3 - Youtube"
+      url: "https://youtu.be/DqB6WQ7IAtg"
+      alt: "DeGroote Pulse Youtube Channel"
+      title: "DeGroote Pulse Youtube Channel"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-medium"
       text: "Episode 2 - Spotify"
       url: "https://open.spotify.com/episode/19c5elIOBCYN8BUe6DRFEx?si=Rt7RqidYQ4Wdu3GUKcOQQg"
       alt: "DeGroote Pulse Youtube Channel"
